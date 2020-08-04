@@ -1,0 +1,4 @@
+first_request.js
+movie_search_app/
+node_modules/
+output.txt
